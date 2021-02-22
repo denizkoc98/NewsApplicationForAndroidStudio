@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".CommentsActivity"
+    >
+    <item
+        android:id="@+id/write_activity"
+        android:icon="@drawable/ic_border_color_black_24dp"
+        android:title=""
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>
